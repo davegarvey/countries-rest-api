@@ -10,4 +10,4 @@ RUN npm install
 EXPOSE 4100
 
 # Run the app
-CMD ["npm", "run", "dev"]
+CMD ["npm", "run", "start"]
