@@ -15,7 +15,7 @@ This is a simple RESTful API that serves country data. The API allows users to r
 
 ### Data Source
 
-This API serves static data from a JSON file (`/data/countries.json`).
+This API serves static data from a JSON file ([data/countries.json](data/countries.json)).
 
 ### Docker
 
